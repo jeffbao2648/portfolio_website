@@ -1,3 +1,24 @@
+/* Portfolio */
 body {
   color: white;
+  font-family: "Convergence", serif;
+}
+
+body h1 {
+  font-size: 50px;
+  margin: 300px 300px;
+}
+
+body a{
+  color: white;
+}
+
+.rounded {
+  border-radius: 30px;
+}
+
+#aboutMe {
+  padding: 2px 2px;
+  width: 150px;
+  background-color: #C4C4C4;
 }
