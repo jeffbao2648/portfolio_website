@@ -2,6 +2,9 @@
 
 Part 1: 
 
+https://user-images.githubusercontent.com/99672792/165660992-c8ff724f-7b1e-48da-b143-328ba7410290.mp4
+
+
 Part 2: For Assignment 8, I decided to create a portfolio website for myself. The purpose of this website is to allow others to get to know me better and reach out if they want to connect. In my portfolio website, it contains my skills, a short biography, and a contact page with a form and links to my social accounts. This gives the user some quick general information about me and information to reach out. To make my portfolio website more engaging to the user, I decided to take a modern minimalistic approach to the design. When the page first loads, a short introduction written by a typewriter is animated. In order to ensure that the user understands their mouse is hovering over, every possible button selection has some sort of indication that shows the user what is being selected. I implemented a navigation bar, and it would underline the menu item that is selected if the mouse hovered over it. Additionally, at the contact page, the user is notified if they select the text box in the contact form or the links to the social media accounts. The target audience for my portfolio website is mainly for employers and people who are interested to get to know me a little and connect. 
 
 Part 3:       
